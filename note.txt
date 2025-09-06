@@ -3,3 +3,5 @@ git add .S
 git commit -m "message"
 git push -u origin main
 git log
+git branch 
+git checkout -b 
